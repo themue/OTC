@@ -1,6 +1,6 @@
-<mxfile modified="2024-05-17T13:38:19.325Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="Y7xEMKsygyXkBtedJ7jy" version="24.4.3" type="github" pages="3">
+<mxfile modified="2024-05-17T13:59:31.875Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="n3TtktnAMibyer-JqRbv" version="24.4.3" type="github" pages="3">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Infrastructure und Network">
-    <mxGraphModel dx="1991" dy="1409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,6 +98,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UoB_Hsm2bbGfd9qiwoba-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="UoB_Hsm2bbGfd9qiwoba-35" target="UoB_Hsm2bbGfd9qiwoba-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RqwzF8urG6VHx6SrAEF6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;curved=1;endArrow=none;endFill=0;" edge="1" parent="1" source="UoB_Hsm2bbGfd9qiwoba-35" target="RqwzF8urG6VHx6SrAEF6-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UoB_Hsm2bbGfd9qiwoba-35" value="EIP&#xa;(Elastic IP)" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDggNDgiPiYjeGE7ICAgIDxnIGZpbGw9IiMxOTc2RDIiPiYjeGE7ICAgICAgICA8cGF0aCBkPSJNMzgsMTNoLTNjLTUuNSwwLTEwLDQuNS0xMCwxMHM0LjUsMTAsMTAsMTBoM2M1LjUsMCwxMC00LjUsMTAtMTBTNDMuNSwxMywzOCwxM3ogTTM4LDI5aC0zIGMtMy4zLDAtNi0yLjctNi02czIuNy02LDYtNmgzYzMuMywwLDYsMi43LDYsNlM0MS4zLDI5LDM4LDI5eiIvPiYjeGE7ICAgICAgICA8cGF0aCBkPSJNMTMsMTNoLTNDNC41LDEzLDAsMTcuNSwwLDIzczQuNSwxMCwxMCwxMGgzYzUuNSwwLDEwLTQuNSwxMC0xMFMxOC41LDEzLDEzLDEzeiBNMTMsMjloLTMgYy0zLjMsMC02LTIuNy02LTZzMi43LTYsNi02aDNjMy4zLDAsNiwyLjcsNiw2UzE2LjMsMjksMTMsMjl6Ii8+JiN4YTsgICAgPC9nPiYjeGE7ICAgIDxwYXRoIGZpbGw9IiM0MkE1RjUiIGQ9Ik0zMywyMUgxNWMtMS4xLDAtMiwwLjktMiwyczAuOSwyLDIsMmgxOGMxLjEsMCwyLTAuOSwyLTJTMzQuMSwyMSwzMywyMXoiLz4mI3hhOzwvc3ZnPg==;" parent="1" vertex="1">
@@ -227,7 +230,7 @@
           <mxGeometry x="522" y="80" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="g-Kp9QEtpj4layWid_xC-13" value="1. Public&lt;div&gt;2. Private&lt;br&gt;&lt;div&gt;3. Shared&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="603" width="120" height="50" as="geometry" />
+          <mxGeometry x="880" y="603" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="pUsCkyX4jSx85kY0cieV-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" edge="1" parent="1" source="pUsCkyX4jSx85kY0cieV-43">
           <mxGeometry relative="1" as="geometry">
@@ -237,11 +240,17 @@
         <mxCell id="pUsCkyX4jSx85kY0cieV-43" value="No OS update and patch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="636" y="720" width="60" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="J4QDuUwkHniknURAxMdt-1" value="1. Individual IP range&lt;div&gt;2. VPC Internet Peering&lt;br&gt;&lt;div&gt;3. Individual Access/Connection&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="848" y="839" width="192" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RqwzF8urG6VHx6SrAEF6-1" value="1. Static IPv4&lt;div&gt;2. Inbound not limited&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="720" width="160" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="JlG6Sd7aVVAUpAPaWgGZ" name="Storrage">
-    <mxGraphModel dx="896" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1054" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -379,9 +388,6 @@
         <mxCell id="l-cBKcG_AO-YlAWTiAfF-40" value="1. Standard&lt;div&gt;2. Warm&lt;br&gt;&lt;div&gt;3. Cold&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="397" y="430" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="l-cBKcG_AO-YlAWTiAfF-41" value="Block Storage" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="407" y="270" width="110" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="l-cBKcG_AO-YlAWTiAfF-42" value="1. GUI&lt;div&gt;2. Expanded &amp;amp; Shrunk&lt;br&gt;&lt;div&gt;3. AZs in Region&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="397" y="580" width="140" height="90" as="geometry" />
         </mxCell>
@@ -396,6 +402,9 @@
         </mxCell>
         <mxCell id="MShRjaUnF-zdbf_OXx9n-89" value="Snapshot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="83.97" width="120" height="40.07" as="geometry" />
+        </mxCell>
+        <mxCell id="DXQ0rwwMxOlvokE8T8F1-1" value="1. Block&lt;div&gt;2. File&lt;br&gt;&lt;div&gt;3. System&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="397" y="280" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
