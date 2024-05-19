@@ -1,9 +1,24 @@
-<mxfile modified="2024-05-19T16:40:27.539Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="1NPCiSQUD5BNpbJbywqe" version="24.4.4" type="github" pages="5">
+<mxfile modified="2024-05-19T17:14:08.321Z" host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="IEEQt8UPi66l5iqe5H05" version="24.4.4" type="github" pages="5">
   <diagram id="Mc8jEznUuoYvypgg8Vk_" name="General">
-    <mxGraphModel dx="743" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="984" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Tth2UT3_zkkXUxOwdOnO-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Open Telekom Cloud&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontColor=#FF00FF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tth2UT3_zkkXUxOwdOnO-2" value="Started 2016 on CeBIT" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="1000" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tth2UT3_zkkXUxOwdOnO-3" value="VPC is part of a Project" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="1000" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GervbGMszUCnS6a26cYP-1" value="ECS is flexible, scalable, cofigurable; OS patch and update has to be done by user" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="1000" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0VAFgYfxuBLspwt75njQ-1" value="&lt;div&gt;IMS handles private, public and shared images&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="1000" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
