@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T10:46:22.643Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="vbMaJg6ElsRlsL4Z8Cs_" version="24.4.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-24T11:53:40.800Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="SDwszyVICggDFCdTdlPj" version="24.4.7" type="github" pages="5">
   <diagram id="TLmJmjZSVQOgRkW6YuzI" name="OpenStack">
     <mxGraphModel dx="984" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -453,6 +453,14 @@
         <mxCell id="sbWW0mqwmQMyPtiBUmzm-46" value="Public IP Address for ECS" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1080" y="3360" width="440" height="80" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mCa9rtkA8MzfuYOfGewJ" name="Seite-6">
+    <mxGraphModel dx="984" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
