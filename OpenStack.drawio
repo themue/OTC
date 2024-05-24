@@ -1,9 +1,144 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T19:36:49.311Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.4.7" etag="ajFr64ye9p1RM9SVVfAJ" type="github">
-  <diagram name="Seite-1" id="OOBd-yFIc3VETf2EIVLC">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2024-05-24T21:42:07.461Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="3DDjL3KL4y-V5twzCmwm" version="24.4.7" type="github">
+  <diagram name="Landscape" id="OOBd-yFIc3VETf2EIVLC">
+    <mxGraphModel dx="984" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-1" value="OpenStack" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=36;fontColor=#FF00FF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="840" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-2" value="Landscape" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;fontColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="840" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="240" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-4" value="Client Tools" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-5" value="&lt;div&gt;&lt;b&gt;CLIs&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;OpenStack Client" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-6" value="&lt;div&gt;&lt;b&gt;SDKs&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Python SDK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-7" value="OpenStack" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="1120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="1120" height="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="760" width="240" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-10" value="Integration Enablers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="80" y="720" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-11" value="&lt;div&gt;&lt;b&gt;Container Services&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Kuryr" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="120" y="800" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-12" value="&lt;div&gt;&lt;b&gt;NFV&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Tacker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="119" y="920" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-14" value="Web Frontends" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="1040" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-16" value="Workload Provisioning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="480" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-17" value="Magnum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-18" value="Application Lifecycle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="800" y="480" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-19" value="Masakiri" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="520" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-20" value="Orchestration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="480" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-21" value="Mistral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-22" value="Compute" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="440" y="640" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-23" value="&lt;b&gt;VMs&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Nova&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="680" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-24" value="Storage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="640" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-25" value="&lt;b&gt;Object&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Swift&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-26" value="Horizon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-27" value="Skyline" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="360" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-28" value="Magnum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-29" value="Aodh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-30" value="Head" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="520" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-31" value="Zaqar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="560" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-32" value="Blazar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="560" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-33" value="&lt;div&gt;&lt;b&gt;Container&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Zun" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="680" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-34" value="&lt;b&gt;File&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Manila&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-35" value="&lt;b&gt;Block&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cinder&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-36" value="Networking" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="439" y="800" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-37" value="&lt;b&gt;Sw Defined Net (SDN)&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Neutron&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="840" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-38" value="&lt;b&gt;DNS&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Designate&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="759" y="840" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-39" value="&lt;b&gt;Load Balancing&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Octavia&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="599" y="840" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-41" value="Hardware Lifecycle" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="800" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-42" value="&lt;b&gt;Bare Metal&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ironic&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="840" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-43" value="&lt;div&gt;&lt;b&gt;Accelerators&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Cyborg" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1239" y="840" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-44" value="Shared Services" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="960" width="1040" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-45" value="&lt;b&gt;Identity&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Keystone&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1000" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-46" value="&lt;div&gt;&lt;b&gt;Scheduling&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Placement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1000" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-47" value="&lt;div&gt;&lt;b&gt;Images&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Glance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1000" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JUmaVC_7gAUoUhbMNgvt-48" value="&lt;b&gt;Secrets&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Barbican&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1000" width="280" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
