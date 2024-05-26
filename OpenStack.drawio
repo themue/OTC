@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T21:24:15.259Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="6fO9NRyQ0BP2afyEMMPf" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T16:09:44.464Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="nn_ghXTBZBLqo7YKUkIn" version="24.4.8" type="github">
   <diagram name="Landscape" id="OOBd-yFIc3VETf2EIVLC">
-    <mxGraphModel dx="1406" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1093" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,6 +231,63 @@
         </mxCell>
         <mxCell id="O_caSmONkJLIfvkSZTWE-36" value="Containers (LOLI, Kolla)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O_caSmONkJLIfvkSZTWE-49">
           <mxGeometry y="80" width="479" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_caSmONkJLIfvkSZTWE-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="360" width="321" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="O_caSmONkJLIfvkSZTWE-51" value="Operations Tooling" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1680" y="320" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_caSmONkJLIfvkSZTWE-52" value="" style="group;strokeColor=default;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1720" y="400" width="241" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O_caSmONkJLIfvkSZTWE-53" value="Monitoring Services" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1720" y="400" width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_caSmONkJLIfvkSZTWE-54" value="Cellometer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="440" width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_caSmONkJLIfvkSZTWE-55" value="Venus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="480" width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_caSmONkJLIfvkSZTWE-56" value="Resource Optimization" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1720" y="560" width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_caSmONkJLIfvkSZTWE-57" value="Watcher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="600" width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_caSmONkJLIfvkSZTWE-58" value="Vitrage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="640" width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_caSmONkJLIfvkSZTWE-59" value="Billing / Business Logic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1720" y="720" width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_caSmONkJLIfvkSZTWE-60" value="Adjutant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="760" width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_caSmONkJLIfvkSZTWE-61" value="CloudKitty" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="800" width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_caSmONkJLIfvkSZTWE-62" value="Testing / Benchmark" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1720" y="880" width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_caSmONkJLIfvkSZTWE-63" value="Tempest" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="920" width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_caSmONkJLIfvkSZTWE-64" value="Rally" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="960" width="241" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O_caSmONkJLIfvkSZTWE-66" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="670" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O_caSmONkJLIfvkSZTWE-67" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="470" width="79" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O_caSmONkJLIfvkSZTWE-68" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="870" width="79" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O_caSmONkJLIfvkSZTWE-69" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1011" y="1130" width="60" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
