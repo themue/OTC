@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T11:48:33.151Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="r_r27D_HvoR7VUFpyLkY" version="24.4.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-05-27T12:39:00.962Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="IOWN1iPwyDvFtCYra9xB" version="24.4.8" type="github" pages="6">
   <diagram name="Tenant vs Project" id="c4ROCUiDvdRLFXxvr4zi">
     <mxGraphModel dx="984" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -700,54 +700,96 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A4L7xl6TnGk5pbNpQOkW" name="Services">
-    <mxGraphModel dx="984" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="984" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TzHj6vc0JR9jC2yO90tH-1" value="Open Telekom Cloud - Organization" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=36;fontColor=#FF00FF;" vertex="1" parent="1">
+        <mxCell id="TzHj6vc0JR9jC2yO90tH-1" value="Open Telekom Cloud - Organization" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=36;fontColor=#FF00FF;" parent="1" vertex="1">
           <mxGeometry x="80" y="80" width="840" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TzHj6vc0JR9jC2yO90tH-2" value="Services" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;fontColor=#7EA6E0;" vertex="1" parent="1">
+        <mxCell id="TzHj6vc0JR9jC2yO90tH-2" value="Services" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=24;fontColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="80" y="160" width="840" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TzHj6vc0JR9jC2yO90tH-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TzHj6vc0JR9jC2yO90tH-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="280" width="720" height="1480" as="geometry" />
         </mxCell>
-        <mxCell id="TzHj6vc0JR9jC2yO90tH-4" value="Elastic Cloud Server (ECS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;glass=0;" vertex="1" parent="1">
+        <mxCell id="TzHj6vc0JR9jC2yO90tH-4" value="Elastic Cloud Server (ECS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;glass=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="360" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TzHj6vc0JR9jC2yO90tH-5" value="&lt;b&gt;Computing&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="TzHj6vc0JR9jC2yO90tH-5" value="&lt;b&gt;Computing&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="80" y="240" width="720" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TzHj6vc0JR9jC2yO90tH-6" value="Bare Metal Server&lt;div&gt;(BMS)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;glass=0;" vertex="1" parent="1">
+        <mxCell id="TzHj6vc0JR9jC2yO90tH-6" value="Bare Metal Server&lt;div&gt;(BMS)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;glass=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="520" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TzHj6vc0JR9jC2yO90tH-7" value="Image Management Service (IMS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;glass=0;" vertex="1" parent="1">
+        <mxCell id="TzHj6vc0JR9jC2yO90tH-7" value="Image Management Service (IMS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;glass=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="680" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TzHj6vc0JR9jC2yO90tH-8" value="Cloud Container Engine (CCE)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;glass=0;" vertex="1" parent="1">
+        <mxCell id="TzHj6vc0JR9jC2yO90tH-8" value="Cloud Container Engine (CCE)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;glass=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="840" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TzHj6vc0JR9jC2yO90tH-9" value="Auto Scaling (AS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;glass=0;" vertex="1" parent="1">
+        <mxCell id="TzHj6vc0JR9jC2yO90tH-9" value="Auto Scaling (AS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;glass=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="1000" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TzHj6vc0JR9jC2yO90tH-10" value="DeH" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;glass=0;" vertex="1" parent="1">
+        <mxCell id="TzHj6vc0JR9jC2yO90tH-10" value="DeH" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;glass=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="1160" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TzHj6vc0JR9jC2yO90tH-11" value="Scalable; VCP; Firewall; Data Copy" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="TzHj6vc0JR9jC2yO90tH-11" value="Scalable; VCP; Firewall; Data Copy" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="320" y="360" width="440" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TzHj6vc0JR9jC2yO90tH-12" value="Physical; other like ECS" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="TzHj6vc0JR9jC2yO90tH-12" value="Physical; other like ECS" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="320" y="520" width="440" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TzHj6vc0JR9jC2yO90tH-13" value="Public Images; Create/Manage Private; Batches" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="TzHj6vc0JR9jC2yO90tH-13" value="Public Images; Create/Manage Private; Batches" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="320" y="680" width="440" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TzHj6vc0JR9jC2yO90tH-14" value="Docker" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="TzHj6vc0JR9jC2yO90tH-14" value="Docker" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="320" y="840" width="440" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TzHj6vc0JR9jC2yO90tH-15" value="Hypervisor with own ECSs; License Transfer; BYOL" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="TzHj6vc0JR9jC2yO90tH-15" value="Hypervisor with own ECSs; License Transfer; BYOL" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="320" y="1160" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3XozAlGNMc9gOPgMcown-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="870" y="280" width="720" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="3XozAlGNMc9gOPgMcown-2" value="Elastic Volume Service (EVS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3XozAlGNMc9gOPgMcown-3" value="&lt;b&gt;Storage&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="870" y="240" width="720" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3XozAlGNMc9gOPgMcown-4" value="Block Storage; ECS and BMS" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="360" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3XozAlGNMc9gOPgMcown-5" value="Cloud Server Backup Service (CSBS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="480" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3XozAlGNMc9gOPgMcown-6" value="Backup and Restore of Landscapes; Combining" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="480" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3XozAlGNMc9gOPgMcown-7" value="Storage Data Recovery Service (SDRS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="600" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3XozAlGNMc9gOPgMcown-8" value="Disaster Recover (DR) Service on Storage Level for many Services" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="600" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3XozAlGNMc9gOPgMcown-9" value="Volume Backup Service (VBS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="720" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3XozAlGNMc9gOPgMcown-10" value="Automated and manual Snapshots for EVS" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="720" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3XozAlGNMc9gOPgMcown-11" value="Object Storage Service (OBS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="840" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3XozAlGNMc9gOPgMcown-12" value="Object Storage; S3 and Swift API" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="840" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3XozAlGNMc9gOPgMcown-13" value="Scalble File Service (SFS)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="960" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3XozAlGNMc9gOPgMcown-14" value="Shared Filesystem between ECS; NFS Protocol; NAS" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="960" width="440" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
